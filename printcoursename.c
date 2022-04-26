@@ -2,7 +2,7 @@
 
 int main(){
 	
-	printf("Hi world! How are you");
+	printf("Software Construction");
 
 	return 0;
 }
